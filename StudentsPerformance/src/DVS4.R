@@ -1,0 +1,7 @@
+library(readr)
+StudentsPerformance <- read_csv("C:/Users/padmaja/OneDrive/Documents/StudentsPerformance/data_raw/StudentsPerformance.csv")
+View(StudentsPerformance)
+attach(StudentsPerformance)
+vts<-c(5,30)
+tv<-c("standard","free/reduced")
+pie(vts,tv,main="pie chart")
