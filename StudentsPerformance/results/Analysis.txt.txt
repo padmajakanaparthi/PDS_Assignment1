@@ -1,15 +1,20 @@
 Student Scores for Read and Write.
-Both read and write scores are same.
+The scatter plot shows if read score increases then propability of write score as increases.
 
 Student performance
-Median value of all 5 groups in boxplot.
+Finding Median value of given groups and shown in boxplot.
 
-Represents group scores through barchart.
+Representing group scores through barchart.
 
-student performances of standard and free/reduce shown in pie chart.
+Student lunch of standard and free/reduce shown in pie chart.
 
 Writing fequency 
-Bythe histogram represents the writingscore bythere frequency.
+Histogram represents weiting score across frequency.
+
+
+
+
+
 
 
 
