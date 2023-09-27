@@ -1,0 +1,17 @@
+Student Scores for Read and Write.
+Both read and write scores are same.
+
+Student performance
+Median value of all 5 groups in boxplot.
+
+Represents group scores through barchart.
+
+student performances of standard and free/reduce shown in pie chart.
+
+Writing fequency 
+Bythe histogram represents the writingscore bythere frequency.
+
+
+
+
+
