@@ -1,13 +1,12 @@
 Student Scores for Read and Write.
-The scatter plot shows if read score increases then propability of write score as increases.
+The scatter plot shows if read score increases then propability of writing score also increases.
 
 Student performance
 Finding Median value of given groups and shown in boxplot.
 
-
 For groups i have drawn a barplot and group 2 performance is high.
 
-For the lunch section i have drawn a pie chart, free/reduce portion is high compare to standard.
+For the lunch section i have drawn a pie chart, free/reduce portion is very high compare to standard.
 
 Writing fequency 
 Histogram of writing score is drawn. In my observation 60 to 80 marks received students are high.
