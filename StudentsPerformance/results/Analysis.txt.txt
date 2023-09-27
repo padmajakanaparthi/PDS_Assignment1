@@ -4,17 +4,13 @@ The scatter plot shows if read score increases then propability of write score a
 Student performance
 Finding Median value of given groups and shown in boxplot.
 
-Representing group scores through barchart.
 
-Student lunch of standard and free/reduce shown in pie chart.
+For groups i have drawn a barplot and group 2 performance is high.
+
+For the lunch section i have drawn a pie chart, free/reduce portion is high compare to standard.
 
 Writing fequency 
-Histogram represents weiting score across frequency.
-
-
-
-
-
+Histogram represents writting score across frequency.
 
 
 
